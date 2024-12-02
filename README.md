@@ -1,7 +1,11 @@
+<h1>Jetpack Monthly Views CSV Compiler</h1>
+<em>I'm currently the SEO Ninja 🥷 of <a href="https://skkaw.blog" target="_blank">SKKAW.BLOG</a>. Even though the blog's page rank is already quite high for a lot of the posts, we've only recently begun our SEO optimization efforts. I wanted to track the effects on the site analytics from the Jetpack data (which has a longer history than the Google Site Kit (plus we're still configuring my remote access). I developed this code to compile the historical views data.</em><br>
+<br>
 This is a Python script that compiles csv files of blog post views from Wordpress' Jetpack.<br>
 The wordpress website is under a Business Plan, equipped with Jetpack plug-in.<br>
 <br>
-![image](https://github.com/user-attachments/assets/218e548f-60c9-4045-a6e1-f9ff6caf99ba) <br>
+<img width="1363" alt="image" src="https://github.com/user-attachments/assets/ecc068ea-891b-4bd7-aefa-e6a4e801968c">
+<br>
 <br>
 As there is currently no other way to download data except as to save them as csv files <a href = "https://wordpress.org/support/topic/site-not-commercial-give-us-an-option-to-export-stats/" target="_blank">(link)</a>, I made a Python script that puts together data from all the downloaded csv files.<br>
 <br>
